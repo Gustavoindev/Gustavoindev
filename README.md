@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Desenvolvedor Júnior, estudando JavaScript, cursando ADS,</h4>
+<h4 align="left">Desenvolvedor Júnior, estudando JavaScript, cursando ADS.</h4>
 
 ###
 
